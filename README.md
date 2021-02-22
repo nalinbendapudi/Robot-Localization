@@ -10,7 +10,7 @@ To see the derivations of the propogation and correction equations of the filter
 
 ## Usage Instructions
 
-In MATLAB, enter the command: `run(100,0,0,"EKF")'. This will run the environment for 100 time-steps and localize using the EKF filter. To switch between filters enter either
+In MATLAB, enter the command: `run(100,0,0,"EKF")`. This will run the environment for 100 time-steps and localize using the EKF filter. To switch between filters enter either
 "EKF", "UKF", "PF" or "InEKF" into the run function. Enter a 1 into the thrid input of the run function to create a video.
 
 ## Results
