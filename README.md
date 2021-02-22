@@ -1,4 +1,4 @@
-# Robot Localization using Standard Filter Comparison
+# Robot Localization and Standard Filter Comparison
 
 This project contains implementation of 4 main filters:
 - Extended Kalman Filter
