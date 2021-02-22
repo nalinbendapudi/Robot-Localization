@@ -25,7 +25,7 @@ Deviation Plot for Extended Kalman Filter
 
 Deviation Plot for Unscented Kalman Filter
 
-![](https://github.com/nalinbendapudi/Robot-Localization/blob/master/PKF_deviationPlot.jpg)
+![](https://github.com/nalinbendapudi/Robot-Localization/blob/master/PF_deviationPlot.jpg)
 
 Deviation Plot for Particle Filter
 
